@@ -1,0 +1,22 @@
+# Dart/Pub related
+.dart_tool/
+.pub/
+build/
+
+# iOS
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Flutter/Flutter.podspec.json
+
+# Android
+android/.gradle/
+android/app/build/
+android/gradle/
+android/gradle-wrapper.jar
+
+# Miscellaneous
+.DS_Store
+.idea/
+.vscode/

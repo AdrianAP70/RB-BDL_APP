@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-
 import 'package:logins_screen/Screens/Login/LoginScreens.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -60,7 +59,7 @@ class _SplashScreenState extends State<SplashScreen>
                   child: Image.asset('assets/images/logo.png'),
                 ),
                 SizedBox(height: 200),
-                Text("Version : 0.0.1")
+                Text("Version : 1.0.0 Build 2")
               ],
             )),
       ),

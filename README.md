@@ -1,6 +1,6 @@
 # RB-BDL APP Version 1.0.0 Build 2
 
-A new Flutter project.
+## Biasakan Flutter pub get dulu pas download biar gak merah-merah moment
 
 ## Getting Started
 

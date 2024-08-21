@@ -315,7 +315,7 @@ class _DetailTransaksiScreens extends State<DetailTransaksiScreens> {
         Padding(
           padding: EdgeInsets.only(top: 40, left: 30, right: 30, bottom: 30),
           child: Text(
-            "Tanggal Pesananan ${DetailTransaksiPage.dataTransaksi['date']}",
+            "Tanggal Pesanan ${DetailTransaksiPage.dataTransaksi['date']}",
             style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
           ),
         ),
